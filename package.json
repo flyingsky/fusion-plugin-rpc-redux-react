@@ -22,8 +22,8 @@
     "./dist/browser.es2015.es.js": "./dist/browser.es2017.es.js"
   },
   "dependencies": {
-    "fusion-plugin-rpc": "^1.0.2",
-    "fusion-rpc-redux": "^1.1.0"
+    "fusion-plugin-rpc": "^1.1.0",
+    "fusion-rpc-redux": "^1.0.2"
   },
   "peerDependencies": {
     "fusion-core": "^1.0.2",
