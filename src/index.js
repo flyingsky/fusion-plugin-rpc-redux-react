@@ -12,7 +12,7 @@ import plugin, {mock} from './plugin';
 
 export default plugin;
 export {
-  BodyParserOptionsToken
+  BodyParserOptionsToken,
   createRPCReducer,
   mock,
   RPCToken,
